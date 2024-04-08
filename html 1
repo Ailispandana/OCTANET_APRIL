@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Create a Landing Page Website</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="styles.css">
+<ul class="activee">
+<li><a href="" class="active">Home</a></li>
+<li><a href="">About</a></li>
+<li><a href="">Services</a></li>
+<li><a href="">Project</a></li>
+<li><a href="">Contact</a></li>
+</ul>
+</nav>
+<section>
+<div class="article">
+<h1>Best Books</h1>
+<p class="para">A book is a medium for recording information in the form of writing or images. Books are typically composed of many pages, bound together and protected by a cover.</p>
+<a href="" class="btn">Download Now</a>
+</div>
+</div>
+</section>
+</body>
+</html>
+<body>
+<div class="container">
+
+
