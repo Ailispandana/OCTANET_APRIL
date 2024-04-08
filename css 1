@@ -1,0 +1,41 @@
+*{
+margin:0px
+padding:0px;
+box-sizing: border-box;
+font-family: 'Roboto', sans-serif;
+}
+section{
+height: 100vh;
+background-image: url('https://images.pexels.com/photos/301920/pexels-photo-301920.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+background-repeat: no-repeat;
+background-size: cover;
+}
+.container{
+width:85%;
+}
+.btn{
+color:#fff;
+padding:12px 25px;
+Letter-spacing: 1.5px;
+text-transform: uppercase;
+text-decoration: none;
+background-color: #f15048;
+margin-left: 550px;
+}
+.article .btn:hover{
+background-color: #4399fa;r
+transition: 0.5s ease;
+}
+.activee{
+    font-size: large;
+}
+.para {
+color:rgb(239, 243, 245);
+    margin: 50px;
+    padding: 30px;
+    text-align: center;
+    font-size: 20px;
+    font-style: italic;
+}
+}
+    
