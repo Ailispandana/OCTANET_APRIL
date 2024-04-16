@@ -1,0 +1,89 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+#tasks-container {
+    margin-bottom: 20px;
+}
+
+.task {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.task h2 {
+    margin-top: 0;
+}
+
+.task img {
+    max-width: 200px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.task p {
+    margin-bottom: 5px;
+}
+
+.task .deadline {
+    font-weight: bold;
+    color: red;
+}
+
+.task .priority {
+    font-weight: bold;
+    color: orange;
+}
+
+.task .label {
+    font-weight: bold;
+    color: blue;
+}
+
+.task.design {
+    background-color: #f9f9f9;
+}
+
+.task.development {
+    background-color: #e6f7ff;
+}
+
+.task.seo {
+    background-color: #ffffe6;
+}
+
+#task-form {
+    margin-top: 20px;
+}
+
+#task-form label {
+    margin-bottom: 5px;
+}
+
+#task-form input,
+#task-form select {
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+#task-form button {
+    width: 100%;
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#task-form button:hover {
+    background-color: #45a049;
+}
